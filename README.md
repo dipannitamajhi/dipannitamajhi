@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋 I'm Dipannita Majhi
 
-<!--
-**dipannitamajhi/dipannitamajhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning Full-Stack Development, AI/ML and Generative AI
+* 💡 Interested in building practical and real-world applications
+* ☁️ Exploring Cloud Technologies
+
+### Tech Stack
+
+HTML • CSS • JavaScript • Python • React • Node.js • Express.js • MongoDB • Git • GitHub
+
+### Connect With Me
+
+🔗 [LinkedIn](https://www.linkedin.com/in/dipannita-majhi-3514b0300/)
