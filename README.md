@@ -86,26 +86,6 @@ fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 
 ---
 
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=react-dark&hide_border=true&area=true&custom_title=Dipannita%20Majhi%27s%20Contribution%20Graph"
-    width="100%"
-    alt="Dipannita Majhi's Contribution Graph"
-  />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipannitamajhi&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
