@@ -1,14 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20Dipannita%20Majhi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
 <br/>
 <br/><br/>
-
 <i>Building practical, real-world applications — one project at a time. Always learning, always shipping. 🚀</i>
-
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -18,7 +14,6 @@
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=dipannitamajhi&label=Profile%20Views&color=6366F1&style=flat" />
 <img src="https://img.shields.io/github/followers/dipannitamajhi?label=Followers&style=flat&color=06B6D4" />
-
 </div>
 
 👩‍💻 About Me
