@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi There, I'm Dipannita Majhi 👋
-
-### B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:DB2777&height=220&section=header&text=Hi%20There,%20I'm%20Dipannita%20Majhi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -69,6 +67,14 @@ interests: "Building practical, real-world applications"
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=redental&hide_border=true&area=true" width="90%"/>
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -92,3 +98,5 @@ interests: "Building practical, real-world applications"
 </p>
 
 <p align="center"><i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:DB2777&height=120&section=footer" width="100%"/>
