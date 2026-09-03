@@ -34,8 +34,8 @@ location: India
 fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 ```
 
-- 🎓 Pursuing **Computer Science and Engineering** at **\Supreme Knowledge Foundation Group Of Institutions**
-- 📅 Expected Graduation: **\2027**
+- 🎓 Pursuing **Computer Science and Engineering** at **Supreme Knowledge Foundation Group Of Institutions**
+- 📅 Expected Graduation: **2027**
 - 💻 Passionate **Full-Stack Developer** and **AI/ML Enthusiast**
 - 🌱 Currently learning **Machine Learning, Generative AI and Cloud Technologies**
 - ⚙️ Working with **Python, React, Node.js & FastAPI** to build full-stack apps
