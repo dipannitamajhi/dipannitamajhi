@@ -23,7 +23,7 @@
 * 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
 * ⚙️ Building applications with **Python, React, Node.js and FastAPI**
 * ☁️ Exploring **Cloud Technologies and Azure AI**
-* 🚀 Interested in building practical applications that solve real-world problems"
+* 🚀 Interested in building practical applications that solve real-world problems
 
 ### 🛠️ Tech Stack
 
