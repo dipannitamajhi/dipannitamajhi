@@ -19,8 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=dipannitamajhi&label=Profile%20Views&color=6366F1&style=flat" />
 <img src="https://img.shields.io/github/followers/dipannitamajhi?label=Followers&style=flat&color=06B6D4" />
 </div>
----
-### 🎓 About Me
+🎓 About Me
 
 ```yaml
 name: Dipannita Majhi
