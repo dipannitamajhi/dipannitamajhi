@@ -1,6 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:DB2777&height=220&section=header&text=Hi%20There,%20I'm%20Dipannita%20Majhi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20Dipannita%20Majhi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
+<br/>
+
+<img src="https://avatars.githubusercontent.com/u/229156567?v=4" width="180" height="180" style="border-radius:50%;" />
+
+<br/><br/>
+
+<i>Building practical, real-world applications — one project at a time. Always learning, always shipping. 🚀</i>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dipannitalic04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/dipannitamajhi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dipannitamajhi&label=Profile%20Views&color=6366F1&style=flat" />
+<img src="https://img.shields.io/github/followers/dipannitamajhi?label=Followers&style=flat&color=06B6D4" />
 
 </div>
 
@@ -12,11 +37,13 @@
 name: Dipannita Majhi
 role: Full-Stack Developer & AI/ML Enthusiast
 education: B.Tech in Computer Science and Engineering
+year: Final Year (4th Year)
 currently_learning: [AI/ML, Generative AI, Cloud Technologies]
 tech_focus: Full-Stack Development (MERN) + Python
 interests: "Building practical, real-world applications"
 ```
 
+- 🎓 Final-year B.Tech CSE student
 - 🌱 Currently learning **Full-Stack Development, AI/ML and Generative AI**
 - 💡 Interested in building **practical and real-world applications**
 - ☁️ Exploring **Cloud Technologies** (Azure, AI-powered apps)
@@ -57,12 +84,12 @@ interests: "Building practical, real-world applications"
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipannitamajhi&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dipannitamajhi&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dipannitamajhi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dipannitamajhi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipannitamajhi&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipannitamajhi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -70,7 +97,7 @@ interests: "Building practical, real-world applications"
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=redental&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
@@ -78,25 +105,15 @@ interests: "Building practical, real-world applications"
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipannitamajhi&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dipannitamajhi&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dipannitalic04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/dipannitamajhi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i>
 
-<p align="center"><i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:DB2777&height=120&section=footer" width="100%"/>
+</div>
