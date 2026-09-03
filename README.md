@@ -110,10 +110,19 @@ interests: "Building practical, real-world applications"
 
 ---
 
-<div align="center">
+### 🤝 Connect With Me
 
-<i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dipannitalic04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dipannitamajhi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
+<p align="center"><i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i></p>
 
-</div>
