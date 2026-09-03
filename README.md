@@ -31,25 +31,29 @@
 
 ---
 
-### 🚀 About Me
+### 🦉 About Me
 
 ```yaml
 name: Dipannita Majhi
 role: Full-Stack Developer & AI/ML Enthusiast
 education: B.Tech in Computer Science and Engineering
-year: Final Year (4th Year)
-currently_learning: [AI/ML, Generative AI, Cloud Technologies]
-tech_focus: Full-Stack Development (MERN) + Python
-interests: "Building practical, real-world applications"
+college: <Your College Name>
+graduation_year: <e.g. 2027>
+currently_learning: [Machine Learning, Generative AI, Cloud Technologies]
+current_focus: Building full-stack + AI-integrated projects
+location: India
+fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 ```
 
-- 🎓 Final-year B.Tech CSE student
-- 🌱 Currently learning **Full-Stack Development, AI/ML and Generative AI**
-- 💡 Interested in building **practical and real-world applications**
-- ☁️ Exploring **Cloud Technologies** (Azure, AI-powered apps)
-- 🧠 Recently built an **AI Image Generator** using Azure OpenAI + FastAPI
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dipannita-majhi-3514b0300/)
-
+- 🎓 Pursuing **Computer Science and Engineering** at **\<Your College Name>**
+- 📅 Expected Graduation: **\<Year>**
+- 💻 Passionate **Full-Stack Developer** and **AI/ML Enthusiast**
+- 🌱 Currently learning **Machine Learning, Generative AI and Cloud Technologies**
+- ⚙️ Working with **Python, React, Node.js & FastAPI** to build full-stack apps
+- 🗄️ Comfortable across **MongoDB, SQL** and cloud-hosted APIs (Azure OpenAI)
+- 🏆 Always eager to learn new technologies and build meaningful projects
+- ⚡ Fun fact: I enjoy turning ideas into working, real-world applications!
+- 📫 Reach me at: [dipannitalic04@gmail.com](mailto:dipannitalic04@gmail.com) 
 ---
 
 ### 🛠️ Tech Stack
@@ -110,7 +114,7 @@ interests: "Building practical, real-world applications"
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
@@ -124,5 +128,12 @@ interests: "Building practical, real-world applications"
   </a>
 </p>
 
-<p align="center"><i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i></p>
+---
 
+<div align="center">
+
+<i>⭐ Thanks for stopping by — always open to collaborating on interesting web dev and AI/ML projects!</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer" width="100%"/>
+
+</div>
