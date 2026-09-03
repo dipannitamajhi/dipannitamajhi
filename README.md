@@ -1,17 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=220&section=header&text=Hi%20There,%20I'm%20Dipannita%20Majhi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
 <br/>
-
 <img src="https://avatars.githubusercontent.com/u/229156567?v=4" width="180" height="180" style="border-radius:50%;" />
-
 <br/><br/>
-
 <i>Building practical, real-world applications. Always learning, always shipping. 🚀</i>
-
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -21,39 +15,34 @@
 <a href="https://github.com/dipannitamajhi" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=dipannitamajhi&label=Profile%20Views&color=6366F1&style=flat" />
 <img src="https://img.shields.io/github/followers/dipannitamajhi?label=Followers&style=flat&color=06B6D4" />
-
 </div>
-
 ---
-
 ### 🎓 About Me
 
 ```yaml
 name: Dipannita Majhi
 role: Full-Stack Developer & AI/ML Enthusiast
 education: B.Tech in Computer Science and Engineering
-college: <Your College Name>
-graduation_year: <e.g. 2027>
+college: Supreme Knowledge Foundation Group Of Institutions
+graduation_year: 2027
 currently_learning: [Machine Learning, Generative AI, Cloud Technologies]
 current_focus: Building full-stack + AI-integrated projects
 location: India
 fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 ```
 
-- 🎓 Pursuing **Computer Science and Engineering** at **\<Supreme Knowledge Foundation Group Of Institutions>**
-- 📅 Expected Graduation: **\<2027>**
+- 🎓 Pursuing **Computer Science and Engineering** at **\Supreme Knowledge Foundation Group Of Institutions**
+- 📅 Expected Graduation: **\2027**
 - 💻 Passionate **Full-Stack Developer** and **AI/ML Enthusiast**
 - 🌱 Currently learning **Machine Learning, Generative AI and Cloud Technologies**
 - ⚙️ Working with **Python, React, Node.js & FastAPI** to build full-stack apps
 - 🗄️ Comfortable across **MongoDB, SQL** and cloud-hosted APIs (Azure OpenAI)
 - 🏆 Always eager to learn new technologies and build meaningful projects
 - ⚡ Fun fact: I enjoy turning ideas into working, real-world applications!
-- 📫 Reach me at: [dipannitalic04@gmail.com](mailto:dipannitalic04@gmail.com) 
+
 ---
 
 ### 🛠️ Tech Stack
