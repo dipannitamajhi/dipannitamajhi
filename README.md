@@ -1,4 +1,8 @@
-<div align="center" style="border: 2px solid #38BDF8; border-radius: 12px; padding: 20px;">
+<table>
+<tr>
+<td style="border: 2px solid #38BDF8; border-radius: 10px;">
+
+<div align="center">
 
 # Hi 👋, I'm Dipannita Majhi
 
@@ -7,6 +11,10 @@
 Building practical, real-world applications with modern web technologies and AI.
 
 </div>
+
+</td>
+</tr>
+</table>
 <div>
 <a href="https://www.linkedin.com/in/dipannita-majhi-3514b0300/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
