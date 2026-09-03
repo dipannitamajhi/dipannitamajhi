@@ -1,23 +1,18 @@
-<!-- =========================================================
-     🌊 HEADER
-========================================================= -->
-
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:9333EA&height=180&section=header&text=Dipannita%20Majhi&fontSize=42&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5A2B,45:6B3048,75:8B245F,100:4A1942&height=180&section=header"
+width="100%"
 />
 
-<h3>
-B.Tech CSE Student | Full-Stack Developer | AI & Generative AI Enthusiast
-</h3>
+<h1>Hi There, I'm Dipannita Majhi 👋</h1>
 
+<h3>B.Tech CSE Student | Full-Stack Developer | AI / Generative AI Enthusiast</h3>
+
+</div>
 <p>
 Building practical, real-world applications with modern web technologies and AI.
 </p>
-
-</div>
 
 
 <!-- =========================================================
@@ -148,11 +143,9 @@ I'm continuously improving my projects, learning new technologies and documentin
 
 <br>
 
-<!-- =========================================================
-     🌊 FOOTER
-========================================================= -->
+<br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:6366F1,100:9333EA&height=140&section=footer&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:8B245F,45:6B3048,75:8B5A2B,100:C47A18&height=140&section=footer"
   width="100%"
 />
