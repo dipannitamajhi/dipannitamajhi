@@ -86,10 +86,10 @@ fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 
 ---
 
-### 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
