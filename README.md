@@ -86,10 +86,14 @@ fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 
 ---
 
-## 📈 Contribution Graph
+<h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=react-dark&hide_border=true&area=true&custom_title=Dipannita%20Majhi's%20Contribution%20Graph" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dipannitamajhi&theme=react-dark&hide_border=true&area=true&custom_title=Dipannita%20Majhi%27s%20Contribution%20Graph"
+    width="100%"
+    alt="Dipannita Majhi's Contribution Graph"
+  />
 </p>
 
 ---
