@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<i>Building practical, real-world applications — one project at a time. Always learning, always shipping. 🚀</i>
+<i>Building practical, real-world applications. Always learning, always shipping. 🚀</i>
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 
 ---
 
-### 🦉 About Me
+### 🎓 About Me
 
 ```yaml
 name: Dipannita Majhi
@@ -45,8 +45,8 @@ location: India
 fun_fact: "I enjoy turning ideas into working, real-world applications 🚀"
 ```
 
-- 🎓 Pursuing **Computer Science and Engineering** at **\<Your College Name>**
-- 📅 Expected Graduation: **\<Year>**
+- 🎓 Pursuing **Computer Science and Engineering** at **\<Supreme Knowledge Foundation Group Of Institutions>**
+- 📅 Expected Graduation: **\<2027>**
 - 💻 Passionate **Full-Stack Developer** and **AI/ML Enthusiast**
 - 🌱 Currently learning **Machine Learning, Generative AI and Cloud Technologies**
 - ⚙️ Working with **Python, React, Node.js & FastAPI** to build full-stack apps
